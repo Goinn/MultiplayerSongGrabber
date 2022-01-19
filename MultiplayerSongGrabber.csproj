@@ -7,8 +7,8 @@
     <ProjectGuid>{027F3F68-C207-4D2A-8F0B-DAC3083BB00D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MultiSongDownloader</RootNamespace>
-    <AssemblyName>MultiSongDownloader</AssemblyName>
+    <RootNamespace>MultiplayerSongGrabber</RootNamespace>
+    <AssemblyName>MultiplayerSongGrabber</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
