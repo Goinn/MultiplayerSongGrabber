@@ -15,3 +15,7 @@ For Synth Riders [PCVR]
 
 ## Disclaimer
 This mod is not related to Synth Riders Devs or Kluge Interactive.
+
+## TODO
+* Add option for auto download
+* Add tooltip to button
