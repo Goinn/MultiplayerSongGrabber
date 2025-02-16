@@ -1,3 +1,7 @@
+# ARCHIVED
+
+Please go to https://github.com/bookdude13/SRMultiplayerSongGrabber for the newest fork/version of the mod!
+
 # MultiplayerSongGrabber
 
 Download missing custom songs with the click of a button inside a multiplayer lobby!
